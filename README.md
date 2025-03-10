@@ -17,17 +17,6 @@ Hello! I'm a computer science student with a passion for embedded systems, robot
 * **Software** Autodesk Eagle, DS Mechanical, VS Code
 * **Other:** PCB design, soldering, 3D print
 
-## Selected projects
-
-* **Hexapod Walking Robot:**
-    * Self-designed and built walking robot with Arduino.
-    * PCB design and soldering, servomotor control.
-    * [Link to repository]
-* **ESP32-based Game Console:**
-    * Collaboration on creating a portable "game console".
-    * Responsible for software development.
-    * [Link to repository]
-
 ## Contact
 
 * [kuba.jucha.24@gmail.com]
