@@ -4,7 +4,7 @@ Hello! I'm a computer science student with a passion for embedded systems, robot
 
 ## About me
 
-* 5th-semester computer science student.
+* 3rd year computer science student.
 * Experience in C/C++ programming.
 * Interested in embedded systems, robotics, and IoT.
 * Eager to continuously develop and learn new technologies.
@@ -12,9 +12,8 @@ Hello! I'm a computer science student with a passion for embedded systems, robot
 
 ## Skills
 
-* **Programming languages:** C/C++
-* **Microcontrollers and platforms:** AVR ATmega, Arduino, Raspberry Pi
-* **Software** Autodesk Eagle, DS Mechanical, VS Code
+* **Programming languages:** C/C++, Python
+* **Microcontrollers and platforms:** AVR, ARM, Arduino, Raspberry Pi
 * **Other:** PCB design, soldering, 3D print
 
 ## Contact
